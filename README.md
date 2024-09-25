@@ -6,7 +6,6 @@
 -devcontainer
 
 
-#[![CI](https://github.com/nogibjj/avt12-template/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/avt12-template/actions/workflows/hello.yml)
 
 The repository serves as a python template. Below, the actions comprising the workflow run are explained- these are articulated in the yml file as instructions to build:
 
